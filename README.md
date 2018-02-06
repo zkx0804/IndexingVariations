@@ -8,3 +8,7 @@
 2. mvn package  
 3. In the project folder, run command:  
   java -jar target/"ProjectName.Jar"
+
+## Notice
+Currently diable the index function due to the time cost.   
+Output run file for Trec_eval will be in output/ folder.
